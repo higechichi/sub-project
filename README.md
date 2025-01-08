@@ -1,3 +1,3 @@
 # sub-project
 GIT講座用　サブプロジェクト
-github上で更新
+github上で更新2
